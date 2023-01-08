@@ -22,6 +22,3 @@ python app.py
 or
 run app.py
 
-## Contact
-- Mail: alexanderking.aa@gmail.com
-- GitHub: [Alexander](https://github.com/Anyaegbunam-Alexander)
